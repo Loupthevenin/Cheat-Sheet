@@ -81,3 +81,7 @@ nano .bashrc
 *Search*
 
 - `Ctrl + R`
+
+*Resumes jobs that have been suspended and keeps them running in the background*
+
+- `Ctrl + Z`
